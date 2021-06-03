@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a friend in the country</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25894</idno><idno type="EEBO-CITATION">23897688</idno>
+  <idno type="VID">205652</idno>
+  <idno type="EEBO-PROQUEST">2240862576</idno>
+  
+            <idno type="STC">Wing L1651</idno>
+            <idno type="OCLC">23897688</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205652)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1704:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a friend in the country</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCV [1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon: London, Printed in the Year MDCXCV.</note>
+                  <note>Text begins "Sir, you are pleased to observe..."; letter concerns the effects upon the nation of the death of Queen Mary II.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mary --  II, --  Queen of England, 1662-1694.</term>
+               <term type="geographic_name">Great Britain --  Kings and rulers --  Succession.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:205652:1"/>
+            <pb n="1" facs="tcp:205652:1"/>
+            <head>A LETTER TO A Friend in the Country.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU are pleased to observe in your Letter, That it was the general Sense and Discourse in the Country, du<g ref="char:EOLhyphen"/>ring the Queens Sickness, that in Case she should then happen to dye they must go to a new <hi>Election</hi> of Members, for that her Death would make a <hi>Dissolution of the Parliament:</hi> And this you say was held so plain a Case, that you did not perceive that any body made any doubt of it, but was taken by all for Granted; and that therefore you were not a little surpriz'd to hear the <hi>Parliament</hi> were still Sitting, notwithstanding her <hi>Death:</hi> And the more so, for that you have not heard that either House so much as made any Debate or Question about it, either be<g ref="char:EOLhyphen"/>fore or since her Death; which (as you are pleas'd to add)
+<pb n="2" facs="tcp:205652:2"/> puts you upon a Request to me to know, How I conceive the Matter stands in the Laws of the Land, that you may a little understand whether your Representatives have dealt fairly with you? Now though I might, in answer to what you say, only tell you, That it was then thought as plain a Case here among the <hi>Lawyers,</hi> and (as I have been informed) even among your very Representatives themselves, and thence conclude it vain and needless to send you any particular Opinion, especially of my own: Yet to let you see how well the Law of the Land has provided for this Case, and that we are upon no Uncertainties in Law however we may be in Men, in a Matter of this high Consequence and Concernment to the Kingdom, I will endea<g ref="char:EOLhyphen"/>vour (as briefly as I can) to lay the Law before you, in so plain and clear a Light, that you may evidently see that the Parliament became necessarily dissolv'd in Law by the Queens Death.</p>
+            <p>Now you must know (whatever some may fancy) that Par<g ref="char:EOLhyphen"/>liaments are under the Directions and Restrictions of the Com<g ref="char:EOLhyphen"/>mon Law, as well as any inferior Court or Corporation. By the Law they have their Existence, by the Law they Act, and by the Law they Cease: For the Being of a Parliament is a Legal Being, and therefore can no longer exist than the Law upholds them; they are the King's Writs that raise them, and call them together; 'tis under the immediate Influence, and legal Autho<g ref="char:EOLhyphen"/>rity of these Writs, that they Sit and Act; and when these le<g ref="char:EOLhyphen"/>gal Writs, or the legal Authority they have by them, ceaseth, they necessarily cease too, and fall into dissolution: So that whether the two Houses now sitting in <hi>VVestminster</hi> are a Par<g ref="char:EOLhyphen"/>liament, or not, is altogether a Question of Law; and this, as I conceive, will chiefly, if not altogether, depend upon this En<g ref="char:EOLhyphen"/>quiry, Whether their Writs, issued out in the Names of K. <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and Q. <hi>Mary,</hi> were not abated and determined in Law by Q. <hi>Mary</hi>'s Death? For if they were, there is nothing Legal left to support them, and consequently (whatever they may be else) can be no <hi>Legal Parliament;</hi> nor what they Act, or pre<g ref="char:EOLhyphen"/>tend to Enact, have any force or validity in Law. Now in order to examine this Candidly and Impartially (for I utterly abhor all unfair or unfaithful dealing) I will first set before you
+<pb n="3" facs="tcp:205652:2"/> a true Copy of the Writ by which this Parliament was called, and also so much of the late Act of Settlement of the Crown, 1 <hi>W.</hi> and <hi>M.</hi> as concerns this Question, that you may the more clearly Discern and Judg of what I herein after say.</p>
+            <p>The Act 1 <hi>W.</hi> and <hi>M.</hi> first reciting the Donation of the Crown, and Royal Dignity, by the Convention to the Prince and Prin<g ref="char:EOLhyphen"/>cess of <hi>Orange,</hi> and that <hi>thereby they did become, and of right ought to be, our Sovereign Liege Lord and Lady, King and Queen of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>&amp;c. in and to whose Princely Persons the Royal Estate, Crown, and Dignity of these Realms, with all Honours, Stiles, Titles, Rega<g ref="char:EOLhyphen"/>lities, Prerogatives, Powers, Jurisdictions, and Authorities to the same belonging, are most Fully, Rightfully, and Intirely, Invested and In<g ref="char:EOLhyphen"/>corporated, United and Annexed;</hi> then goes on, and says, That 'tis therein <hi>Enacted and Declared, That the Crown and Regal Go<g ref="char:EOLhyphen"/>vernment of these Realms, with all and singulalar the Premisses there<g ref="char:EOLhyphen"/>unto belonging, shall be and continue to their said Majesties, and the Survivors of them, during their Lives, and the Life of the Survivor of them; and that the intire and full Exercise of the Regal Power and Government be only in and executed by his Majesty, in the Names of both their Majesties, during their Joynt-Lives, and after their De<g ref="char:EOLhyphen"/>ceases the Crown and Premisses shall be and remain to the Heirs of the Body of her Majesty;</hi> and so on to the Princess <hi>Ann &amp;c.</hi>
+            </p>
+            <p>And the Writ is this:
+<q>
+                  <floatingText xml:lang="lat">
+                     <body>
+                        <div type="writt">
+                           <opener>
+                              <signed>
+                                 <hi>Gulielmus</hi> &amp; <hi>Maria,</hi> Dei Gratia, <hi>Angl. &amp;c.</hi> Rex &amp; Regin. Fid<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap> Defensor. </signed>
+                              <salute>Vicecomit. <hi>B.</hi> salutem.</salute>
+                           </opener>
+                           <p>Quia de Advisamento &amp; Assensu Consilii nostri pro quibusdam Arduis &amp; urgentibus negotiis nos, Statum, &amp; Defensionem Regni nostri <hi>Angl.</hi> &amp; Eccles. <hi>Anglican.</hi> Concern<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n. quoddam Parliamentum nostrum apud Civitatem nostram <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> vicesimo die <hi>Martii</hi> prox. futur. teneri ordinavimus &amp; ibidem cum Prelatis Magnatibus &amp; Proceribus dicti Regni nostri Colloquium habere &amp; tractatum. Tibi precipimus firmiter injungend. quod facta Proclamatione in prox. Com. tuo post receptionem hujus brevis nostri tenend. de Die &amp; Loco predictis, duos Milites Gladiis Cinctos magis Idoneos &amp; Discretos Com. predict. &amp; de qualibet Civitate Com. illius duos Cives &amp; de quolibet Burgo duos Burgenses de discretioribus &amp; ma<g ref="char:EOLhyphen"/>gis sufficient. libere &amp; indifferenter per illos qui Proclamatione hujus<g ref="char:EOLhyphen"/>modi interfuerint juxta formam Statuti inde Editi &amp; provis. Elegi &amp; nomina Eorundem Militum Civium &amp; Burgens. sic Eligend. in qui<g ref="char:EOLhyphen"/>busdam
+<pb n="4" facs="tcp:205652:3"/> Ind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ntur, inter te &amp; illos qui hujusmodi Electioni interfuerint inde C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ciend. licet hujusmodi eligend. presentes fuerint vel Absentes in<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ri c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>sque ad dictos Diem &amp; Locum venire fac. Ita quod iidem Mi<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>es plenam &amp; sufficientem potestat. pro se &amp; Comunit. Com. illius ac dicti Cives &amp; Burgenses pro se &amp; Comunitate Civitat. &amp; Burgor. pre<g ref="char:EOLhyphen"/>dictor▪ divisim ab ipsis habeant ad faciend. &amp; consentiend. his quae tunc ibidem de Comunit. Consilio dicti Regni nostri (favente Deo) Con<g ref="char:EOLhyphen"/>tingent. ordinari super Negotiis Antedict. Ita quod pro defectu potestat. hujusmodi seu propt. improvidam Electionem Militum Civ aut Bur<g ref="char:EOLhyphen"/>gens predictor. dict. Negotia infecta non remaneant quovismodo. <hi>&amp;c.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>Now it will not be deny'd but that all <hi>Parliament Writs</hi> must Naturally, Necessarily, and Essentially, be derived and proceed from the whole and entire Sovereignty and Royal Dignity, and cons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quently these our Writs must necessarily have their Being and Authority as well from Q. <hi>Mary</hi> as K. <hi>William,</hi> because the Sove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eignty and Royal Dignity at the time of issuing these Writs were no less united and incorporated to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he natural Per<g ref="char:EOLhyphen"/>son of Q. <hi>Mary</hi> than K. <hi>William;</hi> they Both then being actually and joyntly in the Possession thereof, however distinguished in the Exercise of them. And therefore the Clause for using her Name in the Exercise of the Regal Power and Government, was not inserted in the said Act of Settlement as a Matter only of Respect and Deference, but as a thing Necessary and Essen<g ref="char:EOLhyphen"/>tial to that Share of the Sovereignty wherewith her Person was invested; in respect of which Sovereignty so lodg'd in her, Treason no doubt might no less have been committed against her natural Person than against his. So that her Name was necessary to these Writs, <hi>ex Essentia rei;</hi> and the Writs could not have been sufficient or valid in Law, unless her Name had been used in them, and that although there had been no such Clause in the said Act for the using both their Names. Now therefore if the Validity of these Writs essentially consisted in their being in the Names of both, as proceeding from the Joynt Regal Authority of these two Joynt Sovereigns; and could not have been Good in either of their Names alone for want of Le<g ref="char:EOLhyphen"/>gal Sovereignty enough in either of them to impregnate the Writs: Then must the Death of either necessarily Abate and Dissolve these Writs, and the Parliament depending thereon;
+<pb n="5" facs="tcp:205652:3"/> because the Sovereignty of the one, which necessarily went to the Authority and Support of these Writs, is demised or de<g ref="char:EOLhyphen"/>parted from the natural Body wherein it was invested, and consequently from these Writs. <hi>Nihil enim tam Conveniens est naturali Aequitati unumquodque dissolvi eo ligamine quo Constituitur;</hi> as says <hi>Bracton.</hi> Nor is it any Objection to say, That the So<g ref="char:EOLhyphen"/>vereignty vested in Q. <hi>Mary</hi> did, by her Death, become vested in K. <hi>William</hi> as Survivor, and the whole Sovereignty is now in him; unless any one could say, or think, That her Sovereignty which was of absolute necessity to make good these Writs, and which by her Death departed these Writs, could immediately again reenter into these very Writs; which would be very ab<g ref="char:EOLhyphen"/>surd to say. So that these Writs must either remain half alive, and half dead, or else must wholy abate and determine by the Queens death. And to shew you further that here was a De<g ref="char:EOLhyphen"/>mise, and consequently a Dissolution,<note place="margin">7. <hi>r.</hi> 10. <hi>b.</hi>
+               </note> please to ob<g ref="char:EOLhyphen"/>serve, That it is not the Kingship or Sovereignty <hi>in Genere,</hi> that preserves these Writs, for then they might be as durable as the Monarchy it self; for the King <hi>in Genere</hi> never dyes, but these Writs depend upon the Continuance of the na<g ref="char:EOLhyphen"/>tural Person of the King <hi>in Individuo</hi> who issued them out; now the King who issued them forth was K. <hi>William</hi> and Q. <hi>Mary,</hi> (they both being but <hi>un Roy</hi> in the Sense of the Law) but this <hi>un Roy</hi> is Changed and Gone by the Queens Death; un<g ref="char:EOLhyphen"/>less any one can say, That K. <hi>William</hi> alone is the same <hi>Roy in Individuo</hi> with K. <hi>William</hi> and Q. <hi>Mary.</hi> Therefore here is a Demise of the Crown, and consequently an Abatement of the Writs; for where the Sovereignty ceases to be <hi>in Statu quo,</hi> but is become otherwise lodg'd, and the Sovereign Stile altered and changed, by the Death of any natural Person invested with the Sovereignty, and a new Stile used in all Writs, Pa<g ref="char:EOLhyphen"/>tents, and Acts of Government; such Change and Alteration, is in Law a Demise, and what this Kingdom ever took notice of as such; And if so, then certainly the Queens Death was a Demise, for thereby the Sovereignty became otherwise lodged than it was before; for the Sovereignty thereby became wholy in K. <hi>William,</hi> whereas before he was but a Joyntenant with Q. <hi>Mary;</hi> and whereas before the Regal Stile was K. <hi>William</hi>
+               <pb n="6" facs="tcp:205652:4"/> and Q. <hi>Mary,</hi> now by her Death the Regal Stile is alter'd to K. <hi>William</hi> the III. and all this by the Act of God. So that all the Legal Demonstration that can go to the proof of a Demise of the Crown, proves this plainly to be one, and consequently the Parliament dissolved, if a Demise can do it. 'Tis not at all material to this Argument, how K. <hi>William</hi> now claims or holds the Crown; whether by Survivor, or otherwise; all that need be asked is but this, Whether or no any Sovereignty was vested in Q <hi>Mary</hi>'s natural Person, and whether the same be not thence departed by her Death?<note place="margin">Ploud. f. <hi>117.</hi> b. <hi>234,</hi> a. and <hi>457.</hi> a.</note> For if so, then according to our Laws (if the Law knows what a Demise is) there was a Demise by her Death.</p>
+            <p>As to the Power given K. <hi>William</hi> by this Act for his only exercise of the Regal Power, that, if it makes any thing, makes the Dissolution yet more evident; for that no ways altered or affected the joynt Lodgment or Settlement of the Sovereignty, but was only as in nature of a Warrant of Attorney, which by the express Limitation of the Act wholy determined by her Death, being Given only during their Joynt Lives. But K. <hi>William</hi> now has the sole Exercise, not by virtue of this Clause in the Act, but as resulting and flowing from his sole Title by Survivor; and therefore these Writs, if they were grounded or depended on his sole Exercise, must consequently be at an end for this Reason also.</p>
+            <p>Besides, from the very Nature of Joyntenancy, these Writs must be determined: For was it ever made a Question in Law where two Joyntenants grant any Authority to any Person, or Persons, but that the Death of the one Joyntenant deter<g ref="char:EOLhyphen"/>mines the Authority so granted? If two Joyntenants make a Letter of Attorney to any Person or Persons, to do any Act or Acts, is not the Death of one of such Joyntenants a Deter<g ref="char:EOLhyphen"/>mination in Law of such Letter of Attorney? Suppose two Joyntenants of a Mannor grant the same to one or more Persons,<note place="margin">1 <hi>Inst.</hi> 186. <hi>a.</hi>
+               </note> and one of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se Joyntenants dyes, Can the Grantees claim any more than a Moiety only as from the Survivor? For though a sur<g ref="char:EOLhyphen"/>viving Joynten<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt may in some Cases claim wholy as imme<g ref="char:EOLhyphen"/>diately
+<pb n="7" facs="tcp:205652:4"/> from the Donor; yet nothing is plainer in Law than that they that have any Grant or Authority from two Joyn<g ref="char:EOLhyphen"/>tenants, cannot afterward claim as from the surviving Joyn<g ref="char:EOLhyphen"/>tenant only, but must from both the Joyntenants respectively, according to their respective Interests and Estates. And there<g ref="char:EOLhyphen"/>fore if the Parliament cannot now make good their Sitting, as if called <hi>ab Initio</hi> from K. <hi>William</hi> only, (which he then alone had, no Power to do) then certainly neither can the sole Title of K. <hi>William</hi> now by Survivor stand them in any stead.</p>
+            <p>You may please to observe further, That for the Parliament to continue longer than the Joynt Lives of K. <hi>William</hi> and Q. <hi>Mary,</hi> is as much contrary to the End and Intent of their Writs, as it is without any Authority from them. The Writ tells you, That they, <hi>viz.</hi> K. <hi>William</hi> and Q. <hi>Mary,</hi> for some high and urgent Matters concerning <hi>Themselves,</hi> and the State and Defence of the Kingdom, <hi>&amp;c.</hi> having by the Advice of <hi>Their</hi> Council appointed a Parliament at <hi>Westminster,</hi> and there to have <hi>Colloq<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m &amp; Tractatum, i. e.</hi> Conference and Consu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with the Prelates and Great Men of <hi>Their</hi> Kingdom, K. <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and Q. <hi>Mary</hi> command the Sheriff to proclaim the same in his next County Court, after the Receipt of this <hi>Their</hi> Writ, to cause two such Knights <hi>&amp;c.</hi> to be chose, <hi>&amp;c.</hi> as shall have sufficient Power for themselves, and the Commonalty of the County, <hi>&amp;c.</hi> to do and consent to such Things as shall fall out to be ordain'd by the Common Council of their Kingdom upon the Matters aforesaid, <hi>&amp;c.</hi> And the Knights <hi>&amp;c.</hi> after they are chose by virtue of the Writ, have by Indenture full Power given them by the Electors of the County, <hi>&amp;c.</hi> for them<g ref="char:EOLhyphen"/>selves, and the whole County, to do and consent as afore<g ref="char:EOLhyphen"/>said.</p>
+            <p>Now the Power and Trust given by the Electors to the Knights, <hi>&amp;c.</hi> are conform and correspondent to the Power requir'd by the Writ, and that is, to Represent them to K. <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and Q. <hi>Mary</hi> joyntly; and to do and consent to such Things as shall be ordained, as well concerning K. <hi>William</hi> and Q. <hi>Mary</hi>'s Persons, as the State of the Kingdom; therefore when either of their Persons fail, this Power and Trust given
+<pb n="8" facs="tcp:205652:5"/> by the Electors must fail and determine; for this being but a bare Authority must be strictly observed and persued. Now that this intends their particular natural Persons, nothing can be more evident, unless the Prelates and Great Men could have <hi>Colloquium &amp; Tractatum</hi> with their Politick Capacities. So that the Power these Parliament Men had from the People, of Representing and Doing for them, is at an end; unless they could still represent them to, and consent and do, as well for Q. <hi>Mary</hi> as K. <hi>William;</hi> which was what the Writs requi<g ref="char:EOLhyphen"/>red, and the People Chose and Sent them for. If the Par<g ref="char:EOLhyphen"/>liament when they made this Act of Settlement would have had a Parliament to continue in such a Case as this, they should have made Provision for it in the Act, and have given Power for the making of such Writs as would have served on such an Occasion, and then the People would have directed their Choice of Representatives, and impower'd them accordingly; but without an Act of Parliament the Ancient Writs cannot be alter'd any more than any other part of the Common Law: Neither could the People give their Representatives any other Power than the Writs required, and these only go to K. <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and Q. <hi>Mary</hi> joyntly, and not to the Survivor of them. Besides, if the Death of the Queen did not dissolve this Par<g ref="char:EOLhyphen"/>liament, then certainly neither could K. <hi>William</hi>'s, in Case he had hapned to dye first: (For she had the better Estate in the Sovereignty, as having an Estate tail to some Purposes exe<g ref="char:EOLhyphen"/>cuted in her, which in Case she had surviv'd had been exe<g ref="char:EOLhyphen"/>cuted to all Purposes.) And if so, then was here a Power in them of Holding the same Parliament during their Joynt Lives, and the Life of the longer Liver of them; and by the same Reason, if the Regal Power had after the same manner been settled also on the Prince and Princess of <hi>Denmark,</hi> and Duke of <hi>Gl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cester,</hi> and Twenty more, the same Parliament might continue during all their Lives, and the Lives of the Survivors and Survivor of them; and consequently there would have been an End of the Peoples Elections for one Age at least, unless the Person who for the time being should have the Exercise of the Regal Power, should think fit to dissolve them. Of what ill Consequence it may be to the Monarchy,
+<pb n="9" facs="tcp:205652:5"/> for Parliaments once to begin to survive Demises of the Sovereignty, I will neither Consider nor Examine, confining my self altogether to the Matter of Law. Only I will say, with the Lord Chief Justice <hi>Coke,</hi> (4 <hi>Inst.</hi> 37.) That the mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e High and Absolute the high Court of Parliament is, the more Just and Honourable ought it to be, and give Example of Ju<g ref="char:EOLhyphen"/>stice and fair Dealing to the Kingdom. And as <hi>Fleta</hi> says of Kings, so it may be said of Parliaments too, they are <hi>sub Deo &amp; Lege:</hi> (As here the Parliament is dissolved in Law by the Act of God.) And though, as Sir <hi>Robert Atkins</hi> says, a Power limited by Law may be thought <hi>potestas Minor, sed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ior &amp; diuturnior.</hi>
+            </p>
+            <p>The Parliament Writs, and the Legal Certainty of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, is all the Legal Security the People have for the great Trust and Concernment they commit to Parliaments; and i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> once exceeded, and a Parliament got beyond the Boun<g ref="char:EOLhyphen"/>daries of them, and consequently of the Law, they may for all that can be said as well continue to Sit after the Deceases of both K. <hi>William</hi> and Q <hi>Mar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> as after the Decease of either; for no one can determine Who or What can m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke them cease and dissolve, when the Law cannot.</p>
+            <p>To add yet one Consideration more; I would fain know how any Laws can be enacted by the Legal Consent of this Parlia<g ref="char:EOLhyphen"/>ment, but only such as receive their Sanction from the Autho<g ref="char:EOLhyphen"/>rity both of K. <hi>William</hi> and Q. <hi>Mary?</hi> For the Writs neither speak of, or imply any other; neither by the People are their Representatives Chosen or Impowered to Consent to any other, but expresly by the Peoples Indenture annex'd to the Writs Impowered only by them to Consent to such Things as shall be ordained at the said Parliament of K. <hi>William</hi> and Q. <hi>Mary,</hi> mentioned in the said Writs. Now could this be any longer called the Parliament of K. <hi>William</hi> and Q <hi>Mar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> than whilst Q. <hi>Mary</hi> was alive?</p>
+            <p>Besides,<note place="margin">
+                  <hi>Hob.</hi> 111. <hi>and</hi> 222. <hi>Ploud.</hi> 79.</note> It has ever been a steady standing Rule in all Parliaments, and the Law, That
+<pb n="10" facs="tcp:205652:6"/> all Acts of Parliament must relate to the first Day of the Session; so that what can't relate to the first Day of the Session can be no Acts. And I think no one will say, That Acts made now under the Reign of <hi>William</hi> the III. can have any Relation in Law to the first Day of the Session which was in the Reigns of K. <hi>William</hi> and Q. <hi>Mary,</hi> any more than they can relate to <hi>William</hi> the Conqueror.</p>
+            <p>
+               <hi>SIR,</hi> I could say much more to let you see how Plainly and Certainly the Laws of the Kingdom have fixed and fenced the Legal Limits and Boundaries of Parliaments, and how evidently and inevitably, by the Queens Death, the Parlia<g ref="char:EOLhyphen"/>ment was dissolved in Law; but supposing I have said more than enough already, to satisfie you that there is foundation sufficient in the Law for the Assurance you had in the Coun<g ref="char:EOLhyphen"/>try of the Parliaments Dissolution by the Queens Death; <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therefore I shall add no more, but that I am</p>
+            <closer>
+               <signed>Your Faithful Servant.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCXCV.</p>
+            <pb facs="tcp:205652:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
